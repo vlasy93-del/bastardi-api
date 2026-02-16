@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bastardi-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6f8aaaa7-6234-4e5f-8c3f-2ea0489c360b",
+			"database_name": "bastardi_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
